@@ -1,0 +1,5 @@
+name: "alex"
+description: "Catch insensitive, inconsiderate writing"
+runs:
+  using: "docker"
+  image: "Dockerfile"
